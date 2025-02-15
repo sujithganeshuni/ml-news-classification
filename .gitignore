@@ -1,0 +1,34 @@
+# Ignore system and configuration files
+.bash_history
+.gitconfig
+.idlerc/
+.ipython/
+.jdks/
+.jupyter/
+.keras/
+.lesshst
+.node_repl_history
+.ollama/
+.python_history
+.ssh/
+.viminfo
+.vscode/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Microsoft/
+Music/
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+Saved Games/
+Searches/
+Videos/
+battery-report.html
+for
+open-webui/
+wekafiles/
